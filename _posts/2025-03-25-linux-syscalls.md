@@ -1,6 +1,6 @@
 ---
 title: "What Are Syscalls in Linux and How Can We Use Them?"
-date: 2025-03-14
+date: 2025-03-25
 categories:
   - blog
 tags:
