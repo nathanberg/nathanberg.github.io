@@ -1,6 +1,6 @@
 ---
 title: "Understanding the MITRE ATT&CK Framework"
-date: 2025-04-10
+date: 2025-06-04
 categories:
   - blog
 tags:
